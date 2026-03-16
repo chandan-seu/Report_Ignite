@@ -1,0 +1,5 @@
+{
+  "name": "Report Preview Board",
+  "description": "A lightweight, high-visibility report status board with infinite vertical scrolling and an admin dashboard.",
+  "requestFramePermissions": []
+}
